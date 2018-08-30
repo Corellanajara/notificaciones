@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "360899227971",
+    "firebase_url": "https://notificaciones-1d438.firebaseio.com",
+    "project_id": "notificaciones-1d438",
+    "storage_bucket": "notificaciones-1d438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360899227971:android:a5e5c06801ba1d41",
+        "android_client_info": {
+          "package_name": "com.corellana.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360899227971-9en99vg18ohl0vqbvdltr9u2os0rh55c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpWOTy3dRlMogV3GE31lVHOHDk656R9HE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
